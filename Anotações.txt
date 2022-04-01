@@ -1,0 +1,9 @@
+instalar o react-router-dom
+npm install react-router-dom@5.x
+
+instalar styled-components
+npm install styled-components
+
+npm install react-icons
+
+npm install axios
